@@ -2,6 +2,8 @@
 
 Selected content about Artificial Intelligence, ​​Software, ​​Science &amp; Research, ​​​Open Source and Startups.
 
+Mirrored content from [Linkedin Official Newsletter](https://www.linkedin.com/newsletters/6955519510850240512/)
+
 ## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/) and [generator-fast-documentation](https://github.com/UlisesGascon/generator-fast-documentation)
