@@ -37,7 +37,7 @@ const config = {
         title: 'Cathartic Computing Club',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.png'
+          src: 'img/logo.jpg'
           // srcDark: 'img/logo_dark.png'
         },
         items: [
